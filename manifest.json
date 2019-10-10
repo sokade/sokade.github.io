@@ -1,8 +1,8 @@
 {
-  "name": "your-first-pwapp",
+  "name": "sokade",
   "version": "2.0.0",
   "description": "Codelab for Your First PWAPP",
-  "homepage": "https://codelabs.developers.google.com/codelabs/your-first-pwapp/",
+  "homepage": "index.html",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
